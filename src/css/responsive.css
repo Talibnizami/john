@@ -1,0 +1,748 @@
+ 
+
+@media only screen and (max-width: 1600px) {
+
+
+    body { padding: 0%;margin: 0%; }
+
+        /** home-page**/
+        .btn-selling { margin-bottom: 25px;}
+        .boxers-img { width: 99% }
+        .siora { width: 99%; }
+        #teck-about-section .teck-siora-img p {  font-size: 25px; }
+        .teck-crown-img { height: 285px; background-color: rgb(255 255 255); width: 41%; }
+        .crown-img { margin-top: -207px; margin-left: 15px; width: 99%; }
+        .group-img-2 { right: 94px; }
+        .group-img-3 { right: 90px; }
+        /**home-page-close**/
+
+          /* Z MEMBER */
+        .packages-card-height-width {height: 774px;}
+        .membership-heading-col h2 {font-size: 85px;}
+        .membership-options-icon {width: 190px; height: 118px;}
+        .package-head-sec {padding: 40px; padding-bottom: 20px;}
+        .membership-heading-col p {font-size: 23px; width: 1077px;}
+        .packages-card-text {margin-bottom: 20px; font-size: 12px;}
+        .member-text h4 { font-family: 'roundkey'; font-size: 24px; }
+        .member-text p { font-family: 'roundkey'; font-size: 20px; }
+        .member-link a { font-size: 24px; }
+        .trending-member { margin-top: 20px; text-align: center;display: block; }
+        .trending-member p { font-size: 20px !important; font-family: 'roundkey'; padding-bottom: 0 !important; text-align: center;padding-left: 0; }
+        .trending-link { text-align: center; }
+        #trending-sec .buy-now .shop-btn .buy-now-btn { width: 75%; left: -18px; }
+        .card-wrapper {width: 100%;}
+        .buy-text {font-size: 19px;}
+        .membership-amount p {font-size: 27px;}
+        .check-membership-amount {gap: 60px;}
+        .check-membership-checkbox form {gap: 50px;}
+        .cart-item-style-btns-row {margin-bottom: 16px;}
+        .check-membership-checkbox label {font-size: 27px;}
+        .description-box p, .description-box a {font-size: 18px;}
+        .style-btn-box ul li {font-size: 18px; width: 106px; height: 36px;}
+        [type="radio"]:checked + label:after, [type="radio"]:not(:checked) + label:after { top: 3px; left: 6px; width: 14px; height: 14px; }
+        [type="radio"]:checked + label:before, [type="radio"]:not(:checked) + label:before { left: 0; top: -3px; width: 26px; height: 26px; }
+        #msform fieldset .form-card { padding: 36px 60px 60px 60px; height: 1120px; }
+        #msform fieldset:nth-child(2) .form-heading-col h2 { font-size: 85px; }
+        }
+
+      @media only screen and (max-width: 1440px) {
+        body { padding: 0%; margin: 0%; }
+
+        /**home-page**/
+        .banner-img { width: 100%; }
+        .teck-banner-contant p {  font-size: 18px; }
+        .teck-banner-contant h3 {  font-size: 80px; }
+        #teck-selling-products .product-text { font-size: 95px; }
+        .selling-product-text p { font-size: 25px; }
+        #teck-about-section h3 { font-size: 95px; }
+        #teck-banner { height: 580px; }
+        .teck-crown-img { height: 166px; background-color: rgb(255 255 255); width: 35%; }
+        .teck-man-img .group-img {  width: 75%; margin-left: 278px; }
+       .member-img { width: 99%; }
+       #teck-trending p {font-size: 25px;}
+       #teck-colllection-text h3 { font-size: 70px; }
+       #teck-colllection-text p {font-size: 25px;}
+       .group-img-2 { right: 98px;  opacity: 1; }
+       .group-img-3 { right: 95px; opacity: 1; }
+       #teck-about-section { height: 1888px; }
+       .text-products {padding-top: 0px;}
+       .discraption-shirt p {font-size: 28px;}
+       .discraption-shirt h3 {font-size: 80px;}
+       #teck-banner-about-us .teck-about-us-banner {padding-left: 70px;}
+       .col-xl-6.product {display: flex; justify-content: center; align-items: center;}
+       .member-link a { margin-right: 30%; }
+       .check-membership-amount { gap: 63px;}
+       .cart-item-size-row {margin-bottom: 20px;}
+       .style-btn-box ul li {font-size: 17px; width: 95px; height: 35px;}
+       #msform fieldset .form-card { padding: 36px 60px 60px 60px; height: 1050px; }
+       #msform fieldset:nth-child(2) .form-heading-col h2 { font-size: 70px; }
+       #teck-banner {height: 516px;}
+       .teck-crown-img {height: 320px;}
+       .crown-img {margin-top: -113px;}
+       #teck-about-section {height: 1643px;}
+       #footer .container {max-width: 1293px !important;}
+       #teck-banner .container {max-width: 1293px;}
+       #teck-nav-menu .container {max-width: 1293px;}
+       #teck-about-section .container {max-width: 1293px;}
+       .contact-form .teck-footer-headings {margin-left: 0;}
+       .footer-navbar-menu .teck-footer-headings {padding-left: 0; width: 205px;}
+       .teck-man-img .group-img {width: 58%; margin-left: 0; left: 134px; bottom: 156px;}
+       .social-icon {margin-left: 0; display: flex; justify-content: center; align-items: center;}
+       .menu-box ul li {font-size: 24px;}
+       .footer-menu-heading {font-size: 34px;}
+       .footer-para-text {width: 400px; font-size: 26px;}
+       .contact-input-feild .emial-input {width: 275px;}
+       .contact-input-feild .emial-input::placeholder {font-size: 20px; left: -12px;}
+
+      /**home-page**/
+       .packages-card-height-width {height: 705px;}
+       span.package-btn {padding: 17px 26px 36px 26px;}
+       .membership-options-icon {width: 200px;height: 108px;}
+       .package-head-sec {padding: 27px;padding-bottom: 14px;}
+       .membership-heading-col p {font-size: 21px;width: 957px;}
+       .packages-card-text {margin-bottom: 18px;font-size: 11px;}
+
+
+     }
+
+
+
+     @media only screen and (max-width: 1366px){
+          /**home-page**/
+        .open-btn { width: 60px; }
+        .main-menu .btn { margin-top: 14px; }
+        .teck-main-logo { margin-bottom: 20px; }
+        .search-icon { width: 20%; }
+        .shopping-icon-icon {  width: 22%; }
+        .teck-banner-contant h3 { font-size: 70px; }
+        .teck-banner-contant p {  font-size: 17px; }
+        #landing-page-sec2 p { font-family: 'Roundkey'; font-size: 25px; }
+        #landing-page-sec2 ul { font-family: 'Roundkey'; font-size: 20px; }
+        /**--**/
+
+
+
+        #footer .container {max-width: 1250px;}
+        #teck-colllection-text p {font-size: 23px;}
+        #teck-colllection-text h3 {font-size: 66px;}
+        #teck-banner .container {max-width: 1250px;}
+        #teck-nav-menu .container {max-width: 1250px;}
+        #teck-about-section .container {max-width: 1250px;}
+        #teck-colllection-text .col-lg-6:last-child {left: -14px;}
+        #teck-banner-about-us { margin-top: -120px; }
+        #teck-banner-about-us .teck-about-us-banner { padding-left: 70px; }
+        .text-products { padding-top: 0; }
+        #footer .container {max-width: 1250px !important;}
+        .member-text { display: block; }
+        .member-link a { display: contents; }
+        #tatsu-info { padding: 50px 0px 50px 0px; }
+        .card-wrapper {width: 100%;}
+        .check-membership-amount {gap: 70px;}
+        .membership-amount p {font-size: 24px;}
+        .cart-item-option-title h2 {font-size: 26px;}
+        .check-membership-checkbox label {font-size: 23px;}
+        #msform fieldset .form-card { padding: 36px 60px 60px 60px; height: 1010px; }
+
+
+       }
+
+
+
+   @media only screen and (max-width: 1280px){
+
+       #teck-about-section {height: 1555px;}
+       #footer .container {max-width: 1190px;}
+       .contact-input-feild {padding-left: 29px;}
+      #teck-banner .container {max-width: 1190px;}
+      #teck-nav-menu .container {max-width: 1190px;}
+      #teck-about-section .container {max-width: 1190px;}
+      .footer-navbar-menu .teck-footer-headings {width: 182px;}
+      #tatsu-form .map-col { padding: 0; }
+      #cart-page .cart-table .shipping p { font-family: 'roundkey'; font-size: 20px; }
+      /**dev-rizwan**/
+       /**home-page**/
+       .offcanvas-body ul li a { font-size: 35px; }
+       .main-menu-icon .social-icon { float: right; padding-top: 25px;}
+       .selling-product-text { padding: 0; }
+       .contact-input-feild { padding: 0; }
+
+     } 
+
+
+
+@media only screen and (max-width: 1024px){
+     body { padding: 0%; margin: 0%; }
+     /**home-page**/
+       .row {margin: 0;}
+       .col-xl-4.teck-banner-img { display: none; }
+       #teck-nav-menu .tatsu-menu { margin-left: 25px;}
+       .main-menu-icon .social-icon {  padding-top: 38px;  padding-right: 8px; }
+       .teck-banner-contant { text-align: center; }
+       .teck-siora-img { padding-left: 0; }
+       .boxers-img.img-fluid {width: 100%; }
+       .teck-crown-img {  margin-top: -10%; }
+       .crown-img {  margin-top: -44px;  }
+       #teck-about-section { height: 1386px; }
+       #trending-sec p { font-size: 20px; }
+       .selling-product-text p { font-size: 22px; }
+       #teck-colllection-text h3 { font-size: 45px; }
+       #teck-colllection-text p { font-size: 20px; }
+       .footer-logo img { width: 65%;  }
+       .footer-para-text { font-size: 20px; }
+       .contact-input-feild .emial-input { width: 195px; }
+
+    }
+
+
+    @media only screen and (max-width: 768px){
+      body { padding: 0%; margin: 0%; }
+      .teck-trending- .row { justify-content: center; text-align: center; }
+      .row {margin: 0; padding: 0;}
+       /**hpme-page**/
+      .selling-product-text p { font-size: 21px; }
+      #carousel { padding: 0; width: 80%; left: 60px; }
+      #teck-about-section .teck-siora-img p { text-align: center; }
+      #teck-about-section { height: 2160px; }
+      .teck-crown-img { display: none; }
+      #trending-sec p { font-size: 19px; }
+      #teck-colllection-text h3 { font-size: 60px; text-align: center; padding-top: 30px; margin-left: 0; }
+      .teck-trending- .col-xl-4 .buy-now-img { max-width: unset; width: 70%; }
+      .offcanvas { width: 32% !important; }
+      .contact-input-feild .emial-input { width: 150px; }
+      .footer-logo img { width: 100%; }
+      .footer-para-text { display: none; }
+      #teck-colllection-text .col-lg-6:last-child { position: inherit; text-align: center; }
+      #teck-colllection-text p { width: 100%;  padding-top: 10px; padding-bottom: 10px; }
+      .teck-btn-discover-as { margin: 0 auto; }
+      
+
+
+
+    }
+ 
+    @media only screen and (max-width: 767px){}
+
+
+
+    @media only screen and (max-width: 766px){} 
+
+
+   @media only screen and (max-width: 480px){
+          body { padding: 0%; margin: 0%; } 
+          #header { position: relative; width: 100%; }
+          #teck-nav-menu { padding-top: 10px; }
+          .main-menu { display: contents;   }
+          .teck-main-logo { display: contents;  }
+          .main-menu-icon { display: contents; }
+          .tatsu-menu img { padding: 0; padding-bottom: 10px; }
+          .teck-logo { width: 150px; }
+          .social-icon { margin: 0; }
+          .teck-banner-contant h3 { font-size: 65px; }
+          .teck-banner-contant p { font-size: 20px; }
+          #teck-selling-products .product-text { font-size: 55px; }
+          .selling-product-text p { font-size: 20px; }
+          #carousel {  width: 68%; left: 0; margin: 0 auto; }
+          .slick-prev.slick-arrow img { display: none; }
+          #carousel .slick-arrow { position: absolute; top: 50%; transform: translateY(-50%); color: rgb(0 0 0); background-color: rgb(0 0 0); }
+          .slick-next img { display: none; }
+          #choice-sec .choice-col h3 { font-size: 55px; }  
+          #choice-sec .choice-col p { font-size: 20px;  }
+          #teck-about-section h3 { font-size: 55px; }
+          .teck-boxers-img { text-align: center;}
+          .boxers-img.img-fluid { width: 95%; }
+          .member-text .over-line { text-decoration-line: line-through; display: none; }
+          .member-text p { display: none;}
+          .member-link { display: none; }
+
+          #teck-about-section { height: 1500px; }
+          #teck-about-section .teck-siora-img p { text-align: center; font-size: 20px; padding: 0 20px 0 20px; }
+          #trending-sec h3 { font-size: 55px; }
+          #trending-sec p { font-size: 20px; }
+          #teck-colllection-text h3 { font-size: 45px; }
+          #teck-colllection-text p { font-size: 17px; }
+          .footer-logo img { width: 35%; }
+          .menu-col { display: contents; text-align: center; }
+          .menu-box ul { text-align: center; }
+          .contact-input-feild .emial-input { width: 345px; }
+          .footer-logo {padding-left: 20px; }
+          .menu-box { margin: 0 auto; padding-top: 35px;  }   
+          .contact-input-feild { padding: 0; margin: 0 auto; }
+          .logo-box { display: contents; }
+          .footer-menu-heading {  padding-top: 25px; }
+          .icon-box {  gap: 22px; margin-top: 24px; padding-right: 17px; }
+          .footer-logo img { width: 60%; }
+          .slide-menu ul { padding: 0; }
+          .offcanvas-body ul li a { font-size: 30px; }
+        }
+
+@media only screen and (max-width: 480px) {
+    body { padding: 0%; margin: 0%; }
+    .teck-banner-contant h3 { font-size: 60px;  }
+    .teck-banner-contant p {  font-size: 18px;  }
+    .teck-banner-btn {  font-size: 20px;  }
+    .selling-product-text p { font-size: 30px; }
+    #teck-about-section .teck-siora-img p { font-size: 24px;  }
+    #trending-sec p {  font-size: 24px; }
+    #teck-colllection-text h3 { font-size: 40px; line-height: 1; }
+    #teck-colllection-text p {  font-size: 24px; }
+    .teck-selling-btn { font-size: 20px; }
+    #our-collection h1 {  font-size: 55px; }
+    .teck-btn-discover-as { font-size: 20px; }
+    .logo-box { display: flex; }
+    .footer-logo img { width: 85%; }
+    .icon-box { gap: 18px; }
+    .teck-btn-contact-7 { font-size: 20px; }
+    #teck-nav-menu .tatsu-menu {  width: 10%;  height: 35px; }
+    .tatsu-menu img { width: 75%; }
+    .teck-logo { width: 135px; }
+    .selling-product-text p {  font-size: 22px; }
+    #trending-sec p { font-size: 19px; }
+    #teck-colllection-text p { font-size: 26px; }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                /***__________-Responsive-Dev-Rizwan________________________________***/
+                 /**__________-admin-dashboard-all-pages-css-_______________________**/
+                 
+
+                            /**my-review-page**/
+
+     @media only screen and (max-width: 1600px) { 
+             
+            /**payment-admin-page**/
+            .Payment-history td { padding: 9px;; font-size: 20px; padding-left: 60px;  } 
+            .Payment-history table tr th { padding: 15px;  font-size: 25px;  }
+            .col-xl-6.admin-dashboard-info img { width: 20%; }
+            .btn-group {  width: 28%;  float: right; } 
+
+            /**Orders-vip-memeber-page**/
+            #order-vip-dashboard-col-1 { max-width: 30%; flex: 30%; float: left; }
+            #order-vip-dashboard-col-2 { max-width: 70%; flex: 70%; float: right; }
+            .order-table { width: 82vh; }
+
+        }
+
+    @media only screen and (max-width: 1440px)  {
+
+                  /**dashboard**/
+                  .name-admin h3 {  font-size: 40px; }
+                  .teck-dashboard-paragraph p { font-size: 22px; }
+                  .col-xl-6.admin-dashboard-info img { width: 25%; }
+                  .dashboard-table ul .active a {   font-size: 30px; }
+                  .dashboard-table ul li a { font-size: 30px;  }
+
+                  /**my-review**/
+                  .btn-group { width: 33%; float: right; }
+                
+                  /** payment-page-admin**/
+                  .Payment-history table tr th { padding: 8px; font-size: 22px; height: 81px; }
+                  .paytment-table {width: 105%;}
+                  #container-payment { max-width: 95%;}
+                  .table { border-collapse: collapse; width: 100%; }
+                  .Payment-history table tr th { padding: 15px; font-size: 25px; }
+                  .Payment-history td { padding: 9px; font-size: 20px; padding-left: 40px; }
+                  .dashboard-table { margin-left: 0px; }
+
+                  /**Orders-vip-memeber-page**/
+                  .order-table {width: 100%;}
+
+                  
+
+                
+
+                  }
+
+
+
+    @media only screen and (max-width: 1366px) {
+      /**payment-page**/
+       #payment-container { max-width: 85%; }
+
+
+
+      }
+         
+     @media only screen and (max-width: 1280px) { 
+        .btn:not(:disabled):not(.disabled) { font-size: 30px; }
+        .btn-group { width: 40%; }
+        .paytment-table { width: 100%; }
+        #payment-container { max-width: 95%; }
+
+
+
+     }
+
+
+
+
+
+
+
+    @media only screen and (max-width: 1024px) {
+        
+      /*dashboard*/
+        .teck-dashboard-paragraph { padding-left: 35px; }
+        .dashboard-table { margin-left: 0px; }
+        .dashboard-table ul .active a {  font-size: 30px; }
+        .dashboard-table ul .active a {   font-size: 30px; }
+        .teck-dashboard-paragraph p { font-size: 22px; }
+
+        /**my-review-page**/
+        #tatsu-form .form-col h4 { font-size: 60px; }
+        #review-table { width: 60%; }
+
+        /**payment-page**/
+        .Payment-history table tr th { padding: 1px; font-size: 22px; }
+        #payment-container {  max-width: 95%; }
+        .payment-colum-1 { max-width: 25%; flex: 25%; }
+        .payment-colum-2 { max-width: 750%; flex: 75%; }
+
+       }
+
+
+     @media only screen and (max-width: 766px) {
+
+      /**dashboard**/
+      .tatsu-form { display: block; width: 100%; }
+      .dashboard-table { width: 75%; margin-left: 0px; }
+      .teck-dashboard-paragraph { padding-left: 41px; }
+      .teck-dashboard-paragraph p { font-size: 20px; }
+      .dashboard-table ul .active a { font-size: 25px; }
+      .dashboard-table ul li a { font-size: 25px; }
+      .col-xl-6.admin-dashboard-info {margin-top: 55px;  }
+
+
+
+    } 
+
+    @media only screen and (max-width: 767px) {
+      .tatsu-form { display: block; width: 100%; }
+      .dashboard-table { width: 75%; margin-left: 0px; }
+      .teck-dashboard-paragraph { padding-left: 41px; }
+      .teck-dashboard-paragraph p { font-size: 20px; }
+      .dashboard-table ul .active a { font-size: 25px; }
+      .dashboard-table ul li a { font-size: 25px; }
+      .col-xl-6.admin-dashboard-info {margin-top: 55px;  } 
+
+     }
+
+      @media only screen and (max-width: 768px) {
+        .tatsu-form { display: block; width: 100%; }
+        .teck-dashboard-paragraph { padding-left: 41px; }
+        .teck-dashboard-paragraph p { font-size: 20px; }
+        .dashboard-table ul .active a { font-size: 25px; }
+        .dashboard-table ul li a { font-size: 25px; }
+        .col-xl-6.admin-dashboard-info {margin-top: 55px;  } 
+
+        /**my-review-page**/
+        /**.btn:not(:disabled):not(.disabled) { font-size: 25px; }**/
+        /**comment**/
+        .dashboard-table ul {  padding: 0; }
+        .container { max-width: 94%; }
+        #review-menu-col {  margin-bottom: 30px; }
+        .btn-group {  width: auto;  }
+        #tatsu-form .form-col h4 {  margin-bottom: 0;   padding-bottom: 0;  }
+        .review p {   margin-top: 30px; }
+        #tatsu-info {   padding: 0;  margin-bottom: 20px; }
+        .col-xl-6.admin-dashboard-info {  margin-top: 20px;  }
+        .dashboard-table { width: 100%; margin-left: 0px; }
+        
+        /**payment-page**/
+        .payment-colum-1 { max-width: 100%; flex: 100%; }
+        .payment-colum-2 { max-width: 100%; flex: 100%; }
+        #payment-row { width: 100%; }
+        .payment-colum-2 { max-width: 100%; flex: 100%; margin-top: 15px; }
+        .Payment-history .btn-group { padding-bottom: 45px; }
+        .Payment-history h4 { font-size: 55px; }
+
+        /**Orders-vip-memeber-page**/
+        #order-vip-dashboard-col-1 { max-width: 100%; flex: 100%; }
+        #order-vip-dashboard-col-2 { max-width: 100%;  flex: 100%; }
+
+          
+
+       }
+
+      @media only screen and (max-width: 480px)  {
+        
+        .col-xl-6.admin-dashboard-info { margin-left: 0; top: 40px; }
+        .teck-btn-left-ipaid { display: flex; }
+        .text-reset{display: flex;}
+        .col-xl-4.col-lg-4.col-md-4.col-sm-4.col-4.map-col.dashboard { display: none; }
+        .teck-dashboard-paragraph { flex: 100%; max-width: 100%; margin-top: 25px; }
+        #tatsu-form .form-col h4 { font-size: 55px; }
+        .teck-dashboard-paragraph p { font-size: 24px; }
+        .col-xl-6.admin-dashboard-info img { width: 30%; height: 100px; margin-top: 22px; }
+
+        /**btn-menu**/
+        #teck-hide-btn img { position: fixed; width: 7%; background-color: rgb(0 0 0); height: 40px; text-align: center; padding: 10px; }
+        .btn:not(:disabled):not(.disabled) { cursor: pointer; background-color: rgb(0 0 0); width: 11%; text-align: center; font-family: roundkey; font-size: 35px; height: 40px; float: right; position: revert; margin-top: 36px; margin-left: 18px; color: rgb(255 255 255); }
+        #teck-hide-btn { display: flex; position: fixed; background-color: rgb(255 255 255); }
+        .admin-dashboard-info { margin-top: 75px; } 
+
+        /**review-page**/
+        #review-menu-col { display: none; }
+        #tatsu-form .form-col h4 { font-size: 35px; padding-top: 50px; }
+        .btn:not(:disabled):not(.disabled) {  font-size: 20px; letter-spacing: 1px; } 
+        .col-xl-6.admin-dashboard-info { left: 75px; margin-top: 95px; }
+        .col-xl-6.admin-dashboard-info img { width: 30%; margin-top: 5px; height: fit-content; }
+        /**#header { position: fixed; } **/
+        .review-img { width: 10%; display: inline; margin-right: 10px; }
+        #dashboard-info-review {  margin-top: 100px;}
+
+        /**payment-page**/
+        .payment-colum-1 { display: none; }
+        #payment-row { width: 100%; margin: 10px 10px 10px 10px; padding: 0; }
+        .Payment-history td { padding: 10px; font-size: 18px; padding-left: 21px; text-align: center; }
+        .paytment-table {  margin-top: 25px; width: 70vh;} 
+        .payment-colum-2 .btn:not(:disabled):not(.disabled) { font-size: 18px; }
+        .payment-colum-2 .Payment-history .btn-group { margin-top: 20px; }
+
+
+        .payment-colum-2 .form-col h4 { font-size: 45px; }
+        .payemnt-h4 { padding-left: 15px; }
+        #review {margin: 24px;}
+        .Payment-history { width: 70vh; }
+        nav ul { background: rgb(27 27 27); height: 85%; list-style: none; }
+        .sidebar.show { left: 0px; top: 36px; }
+        #dashboard .offcanvas.show { width: 100% !important; }
+        #dashboard .tatsu-menu img { width: 100%; height: 100%; }
+        #dashboard .tatsu-menu { position: fixed; }
+        #dashboard .offcanvas-body ul li a { color: white; font-family: 'Roundkey'; }
+        #dashboard .tatsu-menu { display: block; }
+
+      /**Orders-vip-memeber-page**/
+      .payment-colum-2 { padding: 0; }
+      .paytment-table { margin-top: 25px; width: 70vh; }
+      #order-vip-dashboard-col-1 { display: none; }
+      .Payment-history td { padding: 5px;  font-size: 18px;} 
+      .membership-table { width: 68vh; }
+
+
+       }
+
+      @media only screen and (max-width: 420px)  { 
+        .col-xl-6.admin-dashboard-info img {    width: 40%; }
+
+        /**review-page**/
+        .col-xl-6.admin-dashboard-info { left: 23px; }
+        .membership-table { width: 67vh; }
+
+
+       }    
+
+
+       @media only screen and (max-width: 400px) {
+ 
+       /**dashboard**/
+        #tatsu-form .form-col h4 {   font-size: 45px;  }
+        .teck-dashboard-paragraph p { font-size: 20px; }
+        .review p { font-size: 18px;  }
+        #teck-hide-btn img { position: fixed; width: 8%; background-color: rgb(0 0 0); height: 40px; text-align: center; padding: 10px; }
+
+        /**review-page**/
+        #review { padding: 35px; margin: 0; }
+        .col-xl-6.admin-dashboard-info img { width: 40%; height: fit-content; }
+
+        /**Orders-vip-memeber-page**/
+
+        .membership-table { width: 67vh; }
+
+       }
+
+
+      @media only screen and (max-width: 380px) {
+
+       #tatsu-info .name-admin h3 { font-size: 35px; }
+
+        /**review-page**/
+        #tatsu-form .form-col h4 { font-size: 35px; padding-top: 35px; }
+        .review-img { width: 15%; display: inline; margin-right: 5px; }
+        #payment-container { max-width: 99%; }
+        #tatsu-info { width: 85%; }
+        .col-xl-6.admin-dashboard-info {  left: 0px; width: 90%; padding: 0; }
+        .col-xl-6.admin-dashboard-info img { width: 40%; height: fit-content; }
+        #tatsu-info .name-admin h3 { font-size: 30px; }
+
+
+
+       }
+
+      @media only screen and (max-width: 380px) {
+
+          .payment-info {display: block; margin: 0; padding: 0;  text-align: left; padding-left: 13px;}
+          .paytment-table { margin-top: 25px; width: 80vh; }
+          .Payment-history { width: 80vh; }
+
+
+       }
+
+      @media only screen and (max-width: 300px) {
+
+          /**dahsboard-page**/
+          #dashboard { padding-left: 25px;  }
+        .col-xl-6.admin-dashboard-info {  display: block;  }
+        .col-xl-6.admin-dashboard-info img { width: 60%; height: fit-content; }
+        #tatsu-form .form-col h4 { font-size: 35px;  }
+        .teck-dashboard-paragraph p { font-size: 18px; }
+        #teck-hide-btn img { width: 11%;  height: 43px; text-align: center; padding: 4px; }
+
+        /**review-page**/
+        #dashboard-info-review { padding-left: 20px; }
+        
+        /**payment-page**/
+        .payment-info {display: block; margin: 0; padding: 0;  text-align: left; padding-left: 13px;}
+        .paytment-table { margin-top: 25px; width: 80vh; }
+        .Payment-history { width: 80vh; }
+        #teck-hide-btn img { width: 7%; height: 43px; text-align: center; padding: 6px; }
+        .name-admin p { font-size: 30px; }
+        #tatsu-info .name-admin h3 { font-size: 40px; }
+
+       }
+
+
+
+
+
+      /***________________________________-singup-______________________________________***/
+
+      
+
+        /************************Responsive-Css****************/
+
+        @media only screen and (max-width: 1600px) {
+          .fs-title { font-size: 80px; }
+          .form-card p { font-size: 22px; margin-top: 30px;  }
+          .number { margin-right: 100px; }
+          .btn-recent { margin-left: 60px; }
+          .account-right .account-img { height: 64vh; }
+
+
+       }
+
+     
+       @media only screen and (max-width: 1440px) {
+        .Singup-Form-body { top: 30vh; }
+        .fs-title { font-size: 75px; }
+        .buy-one h6 { padding-left: 19px; padding-right: 29px; font-size: 18px; }
+        #msform .action-button {  font-size: 14px; }
+        
+      }
+
+       @media only screen and (max-width: 1366px) {
+
+        .fs-title { font-size: 65px; }
+        .form-card p { font-size: 18px; margin-top: 10px; }
+        #msform .action-button {  width: 20%; }
+        .Singup-Form-body { top: 17vh; }
+        .singup-products { flex: 0 0 85%; max-width: 85%; margin: 0 auto; }
+        .singup-products .buy-one {  flex-direction: column; align-items: center; margin-bottom: 10px; padding: 30px 10px; }
+        .singup-products .buy-one h6 { padding: 0;  font-size: 21px;  }
+        .btn-recent { margin: 6px; margin-left: 25px; }
+        .top-size input { font-size: 20px;}
+
+       }
+
+
+
+       @media only screen and (max-width: 1024px){
+        .card { width: 100vh; }
+        .Singup-Form-body { max-width: 100vh;  }
+        .singup-products-2 {  max-width: 50%;  flex: 50%;  }
+        .quick-colm { max-width: 50%; flex: 50%; }
+
+       }
+
+       @media only screen and (max-width: 768px){
+        .card { width: 80vh;  }
+
+       }
+
+       @media only screen and (max-width: 480px){
+        .card {  width: 54vh; }
+        .fs-title { font-size: 44px; }
+        .form-card p {  font-size: 19px;  }
+        #msform .action-button { width: 30%; }
+        .card {  width: 54vh; margin: 0 auto; }
+        .fs-title-2 { font-size: 30px; }
+        .singup-products-2 { max-width: 100%; flex: 100%; margin-top: 10px;}
+        .quick-colm { max-width: 100%; flex: 100%; margin-top: 10px; }
+        .top-size input {  width: 100%; }
+        .btn-recent { margin: 6px; margin-left: 73px; }
+        .account-left { max-width: 100%; flex: 100%; }
+        .manage { margin-top: 20px; }
+        .manage h2 { text-align: center;  }
+        .manage p { font-size: 18px; line-height: 1.2;  text-align: center;   }
+        .input_text input {  border-radius: 15px; border: solid 1px rgb(22 23 23); }
+        button.btn-login { font-size: 20px; }   
+        button.close { display: none;  }         
+       }
+
+    @media only screen and (max-width: 320px){
+        .card { width: 36vh; margin: 0 auto;  }
+        .agree {  align-items: center; margin-left: 54px;} 
+        .input_text input { padding: 0;text-align: center; }
+        .btn-recent {  margin-left: 0px; }
+        #msform .action-button { width: 40%; }
+        .top-size input { font-size: 16px; }
+        button.close { display: none; }
+
+       }
+
+    @media only screen and (max-width: 300px){
+
+
+
+       }
+
+
+/****____________________-dashboard-css-close-___________________________****/
+
+
+
+
+
+
+   

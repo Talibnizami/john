@@ -1,0 +1,79 @@
+.bgimage
+{
+background-color: #161717;
+height:90vh;
+padding-top: 20px;
+}
+.bar
+{
+    border: 1px solid black;
+    height: 110px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.containeroflog
+{
+  height: 100%;
+  width: 60px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  
+
+}
+.containeroflog >div >i
+{
+color: white;
+cursor: pointer;
+}
+.containeroflog >div
+{
+  padding: 5px;
+}
+.bori
+{
+border-right: 2px solid white;
+}
+.best-sell-pro
+{
+height: 50vh;
+width: 50%;
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+flex-direction: column;
+flex-shrink: 3;
+}
+#sell-text
+{
+width: 65%;
+display: flex;
+flex-shrink: 3;
+
+}
+#sell-head
+{
+font-size: 60px;
+display: flex;
+flex-shrink: 3;
+}
+
+.card-container
+{
+    border: 1px solid black;
+    padding: 10px;
+}
+.card{
+    width: 18rem;
+}
+.card-img-top
+{
+    border: 1px solid gray;
+}
+.card-img-top:hover
+{
+    height: 290px;
+    width:  290px;
+    box-shadow: 0px 0px 5px gray;
+}
