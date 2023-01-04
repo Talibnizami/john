@@ -20,7 +20,8 @@ import $ from 'jquery'
 function Productdetail() {
   return (
     <>
-  <section id="cart-item-sec">
+
+    <section id="cart-item-sec">
       <div class="container cart-item-con">
         <div class="row cart-item-row">
           <div class="col-xl-6">
@@ -31,23 +32,23 @@ function Productdetail() {
                   <div class="img-display">
                     <div class="img-showcase">
                       <img
-                        src={girlimg}
+                        src={cardimg} 
                         alt="shoe image"
                       />
                       <img
-                        src={girlimg}
+                        src={cardimg} 
                         alt="shoe image"
                       />
                       <img
-                        src={girlimg}
+                        src={cardimg} 
                         alt="shoe image"
                       />
                       <img
-                        src={girlimg}
+                       src={cardimg} 
                         alt="shoe image"
                       />
                       <img
-                        src={girlimg}
+                        src={cardimg} 
                         alt="shoe image"
                       />
                     </div>
@@ -58,90 +59,7 @@ function Productdetail() {
                       class="carousel gallery"
                       data-ride="carousel"
                     >
-                     
-                      <div class="carousel-inner">
-                        <div class="carousel-item active">
-                          <div class="img-item">
-                            <a href="" data-id="1">
-                              <img
-                                src={girlimg}
-                                alt="shoe image"
-                              />
-                            </a>
-                          </div>
-                        </div>
-                        <div class="carousel-item carousel3">
-                          <div class="img-item">
-                            <a href="" data-id="2">
-                              <img
-                                src={girlimg}
-                                alt="shoe image"
-                              />
-                            </a>
-                          </div>
-                        </div>
-                        <div class="carousel-item">
-                          <div class="img-item">
-                            <a href="" data-id="3">
-                              <img
-                                src={girlimg}
-                                alt="shoe image"
-                              />
-                            </a>
-                          </div>
-                        </div>
-                        <div class="carousel-item">
-                          <div class="img-item">
-                            <a href="" data-id="4">
-                              <img
-                                src={girlimg}
-                                alt="shoe image"
-                              />
-                            </a>
-                          </div>
-                        </div>
-                        <div class="carousel-item">
-                          <div class="img-item">
-                            <a href="" data-id="5">
-                              <img
-                                src={girlimg}
-                                alt="shoe image"
-                              />
-                            </a>
-                          </div>
-                        </div>
-                        <div class="carousel-item carousel3">
-                          <div class="img-item">
-                            <a href="" data-id="2">
-                              <img
-                                src={girlimg}
-                                alt="shoe image"
-                              />
-                            </a>
-                          </div>
-                        </div>
-                        <div class="carousel-item">
-                          <div class="img-item">
-                            <a href="" data-id="3">
-                              <img
-                                src={girlimg}
-                                alt="shoe image"
-                              />
-                            </a>
-                          </div>
-                        </div>
-                        <div class="carousel-item">
-                          <div class="img-item">
-                            <a href="" data-id="4">
-                              <img
-                               src={girlimg}
-                                alt="shoe image"
-                              />
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                     
+                   
                     </div>
                   </div>
                 </div>
@@ -535,7 +453,9 @@ function Productdetail() {
         </div>
       </div>
     </section>
-    </>
+
+       
+       </>
   )
 }
 

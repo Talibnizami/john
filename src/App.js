@@ -8,7 +8,7 @@ import './css/styles. singup.css'
 function App() {
   return (
     <div>
-   <Home/>
+  <Productdetail/>
     </div>
   );
 }
